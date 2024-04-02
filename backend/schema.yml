@@ -1,0 +1,7 @@
+openapi: 3.0.3
+info:
+  title: DJ Chat Project API
+  version: 1.0.0
+  description: This is a Django-React Chat Application
+paths: {}
+components: {}
